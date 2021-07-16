@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Welcome Gatsby site.</p>
     <p>Now go build something great.</p>
     <StaticImage
-      src="../images/black-friday-1.webp"
+      src="../images/752.jpg"
       width={300}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
